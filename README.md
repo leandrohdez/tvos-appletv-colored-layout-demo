@@ -14,6 +14,4 @@ Focus is used as the focal point when users navigate through each UI element usi
 
 Apps need to be immersive and maximizing the horizontal edge to edge space of the TV. As users will be interacting with the TV in distance, the UI elements such as Text and Button should be legible and large enough. You can learn more about the design guidelines from Apple HIG website on Apple TV.
 
-We can leverage SwiftUI to build user interface for tvOS. The declarative, composable, and reactive paradigms of SwiftUI enables us to build dynamic user interface rapidly. Using SwiftUI, we can learn once and apply our knowledge to build user interfaces for any devices.
-
-In this example I have built a very very very simple project. 
+We can leverage SwiftUI to build user interface for tvOS. The declarative, composable, and reactive paradigms of SwiftUI enables us to build dynamic user interface rapidly. In this example I have built a very very very simple project. 
