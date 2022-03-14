@@ -7,6 +7,8 @@
 
 import SwiftUI
 
+// https://www.raywenderlich.com/19074315-swiftui-on-t
+
 struct MainView: View {
     
     @State private var focusedIndex: Int = 0
