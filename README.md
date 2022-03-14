@@ -1,5 +1,5 @@
-# tvOS TV (Apple TV App - Smart TV)
-
+# tvOS TV 
+## Apple TV App, Smart TV
 tvOS is an exciting, but mostly unexplored, platform in the Apple ecosystem for outside developers. 
 
 tvOS is the operating system used by Apple TV to deliver immersive and rich contents, media, games, apps to users through the living room. As developers, we can use many existing Apple technologies such as UIKit, CoreData, CloudKit, and Metal to create anything from utility apps, media streaming, and high performance 3D games. It also supports many new technologies such as 4K HDR10, Dolby Vision, and Dolby Atmos to deliver the best video and audio experience.
